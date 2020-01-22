@@ -9,7 +9,7 @@ date=$(date)
 echo "#####" >>README.md
 
 
-echo "Current Date: $date" >> README.md
+echo "Date: $date" >> README.md
 
 echo "#####" >> README.md
 
